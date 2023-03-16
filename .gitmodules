@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rwclust"]
+	path = Rwclust
+	url = https://github.com/csprock/rwclust
+	shallow = true
+	registered = true
